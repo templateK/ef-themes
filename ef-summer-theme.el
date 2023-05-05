@@ -131,8 +131,8 @@
 
 ;;; Special hues
 
-      (bg-mode-line       "#ffa4dc")
-      (fg-mode-line       "#341f58")
+      (bg-mode-line       "#ffebf7")
+      (fg-mode-line       "#9473ce")
       (bg-completion      "#f4cfff")
       (bg-hover           "#b4cfff")
       (bg-hover-secondary "#aaeccf")
